@@ -17,7 +17,7 @@
 
 > *"How can we reuse past knowledge when the world — and the data — won't sit still?"*
 
-howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at the intersection of **statistics and machine learning**. My research develops **theoretically grounded transfer-learning and representation-learning** methods — spanning **optimal transport, graph mining, and multimodal learning** — for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings.
+Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at the intersection of **statistics and machine learning**. My research develops **theoretically grounded transfer-learning and representation-learning** methods — spanning **optimal transport, graph mining, and multimodal learning** — for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings.
 
 
 
