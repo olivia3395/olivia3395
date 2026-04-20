@@ -60,6 +60,3 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 
 
 
-<img src="https://media.giphy.com/media/l2Sq0Lpn1WyD3wBza/giphy.gif" width="120" />
-
-
