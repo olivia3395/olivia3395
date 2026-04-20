@@ -14,6 +14,11 @@
 
 
 ### 🎓 About Me
+<p align="center">
+  <img src="https://www.diydoutu.com/bqb/7431.gif" width="120" />
+</p>
+
+
 
 > *"How can we reuse past knowledge when the world — and the data — won't sit still?"*
 
@@ -52,10 +57,6 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
   <img alt="snake animation" src="https://raw.githubusercontent.com/olivia3395/olivia3395/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-<p align="center">
-  <img src="https://www.diydoutu.com/bqb/7431.gif" width="120" />
-</p>
 
 
 
