@@ -60,3 +60,7 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 
 
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quoteCategory=inspirational" />
+</p>
+
