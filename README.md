@@ -36,11 +36,10 @@ howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 
 
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=olivia3395&show_icons=true&theme=default&hide_border=true&title_color=6366F1&icon_color=6366F1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivia3395&layout=compact&langs_count=8&hide_border=true&title_color=6366F1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivia3395&layout=compact&langs_count=8&hide_border=true&title_color=6366F1" />
 </p>
 
 
