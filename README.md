@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://olivia3395.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Hello%2C+curious+soul+%F0%9F%A6%8B;I'm+a+Stats+Ph.D.+who+talks+to+graphs;Transfer+Learning+%C2%B7+OT+%C2%B7+LLMs+%E2%9C%A8;Welcome+to+my+research+diary+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Hello%2C+curious+soul+%F0%9F%A6%8B;Welcome+to+my+research+diary+%E2%98%95" alt="Typing SVG" />
   </a>
 </h1>
 
