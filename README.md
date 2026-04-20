@@ -54,7 +54,8 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" />
+  <img src="https://www.diydoutu.com/bqb/7431.gif" width="120" />
 </p>
+
 
 
