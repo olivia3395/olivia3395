@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://olivia3395.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Olivia+(Yuyao+Wang);Statistics+Ph.D.+%40+Boston+University;Transfer+Learning+%C2%B7+Graphs+%C2%B7+LLMs;Theory+that+supports+practice+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+(Yuyao);Statistics+Ph.D.+%40+Boston+University;Transfer+Learning+%C2%B7+Graphs+%C2%B7+LLMs;Theory+that+supports+practice+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -17,7 +17,7 @@
 
 > *"How can we reuse past knowledge when the world — and the data — won't sit still?"*
 
-I'm a **Ph.D. candidate in Statistics at Boston University**, working at the intersection of **statistics and machine learning**. My research develops **theoretically grounded transfer-learning and representation-learning** methods — spanning **optimal transport, graph mining, and multimodal learning** — for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings.
+howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at the intersection of **statistics and machine learning**. My research develops **theoretically grounded transfer-learning and representation-learning** methods — spanning **optimal transport, graph mining, and multimodal learning** — for structured, heterogeneous data in low-sample, high-dimensional, and non-IID settings.
 
 
 
