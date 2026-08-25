@@ -41,12 +41,6 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 
 
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivia3395&layout=compact&langs_count=8&hide_border=true&title_color=6366F1" />
-</p>
-
 
 
 ### 🐍 Contribution Snake
