@@ -35,7 +35,7 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
   *NeurIPS 2025* · First author · [Paper](https://openreview.net/pdf?id=i3sWs5614Y) · [Code](https://github.com/olivia3395/GTRANS)
 
 - **Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**  
-  *Preprint 2025* · First author · [Paper](https://arxiv.org/abs/2507.00889) · [Code](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds)
+  *JMLR* · First author · [Paper](https://arxiv.org/abs/2507.00889) · [Code](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds)
 
 
 ### Tech Stack
