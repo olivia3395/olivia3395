@@ -19,9 +19,6 @@
 </p>
 
 
-
-> *"How can we reuse past knowledge when the world — and the data — won't sit still?"*
-
 Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at the intersection of **statistics and machine learning**. My research develops **theoretically grounded transfer-learning and representation-learning** methods, spanning **optimal transport, graph mining, and multimodal learning**.
 
 
@@ -56,11 +53,3 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 
 
 
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olivia3395/olivia3395/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olivia3395/olivia3395/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/olivia3395/olivia3395/output/github-contribution-grid-snake.svg" />
-</picture>
