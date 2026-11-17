@@ -26,30 +26,19 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 
 
 
-### Selected Publications
+### Papers & Code
 
-- <img src="https://img.shields.io/badge/ICML_2026-Oral-D946EF?style=flat-square" alt="ICML 2026 Oral"/> **From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space** (TESS)<br>
-  <a href="https://arxiv.org/abs/2603.12664"><img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="Paper"/></a>
-  <a href="https://github.com/olivia3395/TESS"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-  <img src="https://img.shields.io/github/stars/olivia3395/TESS?style=flat-square&color=6366F1" alt="Stars"/>
+- **From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**  
+  *ICML 2026 (Oral)* · [Paper](https://arxiv.org/abs/2603.12664) · [Code](https://github.com/olivia3395/TESS)
 
-- <img src="https://img.shields.io/badge/NeurIPS-2026-6366F1?style=flat-square" alt="NeurIPS 2026"/> **SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objective**<br>
-  <a href="https://arxiv.org/abs/2604.07383"><img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="Paper"/></a>
-  <a href="https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-  <img src="https://img.shields.io/github/stars/olivia3395/SCOT-Multi-Source-Cross-City-Transfer?style=flat-square&color=6366F1" alt="Stars"/>
+- **SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objective**  
+  *NeurIPS 2026* · [Paper](https://arxiv.org/abs/2604.07383) · [Code](https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer)
 
-- <img src="https://img.shields.io/badge/NeurIPS-2025-6366F1?style=flat-square" alt="NeurIPS 2025"/> **Transfer Learning on Edge Connecting Probability Estimation under Graphon Model** (GTRANS)<br>
-  <a href="https://openreview.net/pdf?id=i3sWs5614Y"><img src="https://img.shields.io/badge/Paper-OpenReview-8C1B13?style=flat-square" alt="Paper"/></a>
-  <a href="https://github.com/olivia3395/GTRANS"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-  <img src="https://img.shields.io/github/stars/olivia3395/GTRANS?style=flat-square&color=6366F1" alt="Stars"/>
+- **Transfer Learning on Edge Connecting Probability Estimation under Graphon Model**  
+  *NeurIPS 2025* · [Paper](https://openreview.net/pdf?id=i3sWs5614Y) · [Code](https://github.com/olivia3395/GTRANS)
 
-- <img src="https://img.shields.io/badge/Preprint-2025-64748B?style=flat-square" alt="Preprint 2025"/> **Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**<br>
-  <a href="https://arxiv.org/abs/2507.00889"><img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="Paper"/></a>
-  <a href="https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-  <img src="https://img.shields.io/github/stars/olivia3395/Covariate-Shifts-on-Approximate-Manifolds?style=flat-square&color=6366F1" alt="Stars"/>
-
-<sub>📖 Full list on <a href="https://scholar.google.com/citations?user=5Yg0zmsAAAAJ&hl=zh-CN">Google Scholar</a>.</sub>
-
+- **Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**  
+  *Preprint 2025* · [Paper](https://arxiv.org/abs/2507.00889) · [Code](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds)
 
 
 ### Tech Stack
