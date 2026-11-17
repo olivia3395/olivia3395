@@ -26,16 +26,16 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 ### Papers & Code
 
 - **From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**  
-  *ICML 2026 (Oral)* · [Paper](https://arxiv.org/abs/2603.12664) · [Code](https://github.com/olivia3395/TESS)
+  *ICML 2026 (Oral)* · Co-first author · [Paper](https://arxiv.org/abs/2603.12664) · [Code](https://github.com/olivia3395/TESS)
 
 - **SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objective**  
-  *NeurIPS 2026* · [Paper](https://arxiv.org/abs/2604.07383) · [Code](https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer)
+  *NeurIPS 2026* · First author · [Paper](https://arxiv.org/abs/2604.07383) · [Code](https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer)
 
 - **Transfer Learning on Edge Connecting Probability Estimation under Graphon Model**  
-  *NeurIPS 2025* · [Paper](https://openreview.net/pdf?id=i3sWs5614Y) · [Code](https://github.com/olivia3395/GTRANS)
+  *NeurIPS 2025* · First author · [Paper](https://openreview.net/pdf?id=i3sWs5614Y) · [Code](https://github.com/olivia3395/GTRANS)
 
 - **Phase Transition in Nonparametric Minimax Rates for Covariate Shifts on Approximate Manifolds**  
-  *Preprint 2025* · [Paper](https://arxiv.org/abs/2507.00889) · [Code](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds)
+  *Preprint 2025* · First author · [Paper](https://arxiv.org/abs/2507.00889) · [Code](https://github.com/olivia3395/Covariate-Shifts-on-Approximate-Manifolds)
 
 
 ### Tech Stack
