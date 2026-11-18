@@ -28,7 +28,7 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 - **From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**  
   *ICML 2026 (Oral)* · Co-first author · [Paper](https://arxiv.org/abs/2603.12664) · [Code](https://github.com/olivia3395/TESS)
 
-- **SCOT: Multi-Source Cross-City Transfer with Optimal-Transport Soft-Correspondence Objective**  
+- **SCOT: Soft Correspondence via Optimal Transport for Multi-Source Cross-City Transfer**  
   *NeurIPS 2026* · First author · [Paper](https://arxiv.org/abs/2604.07383) · [Code](https://github.com/olivia3395/SCOT-Multi-Source-Cross-City-Transfer)
 
 - **Transfer Learning on Edge Connecting Probability Estimation under Graphon Model**  
