@@ -25,7 +25,7 @@ Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at 
 ### Papers & Code
 
 - **Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds**  
-  *Preprint* · First author · [Paper](https://arxiv.org/abs/2611.31856) · [Code](https://github.com/olivia3395/statprior-onestep)
+  *Preprint 2026* · First author · [Paper](https://arxiv.org/abs/2611.31856) · [Code](https://github.com/olivia3395/statprior-onestep)
   
 - **From Text to Forecasts: Bridging Modality Gap with Temporal Evolution Semantic Space**  
   *ICML 2026 (Oral)* · Co-first author · [Paper](https://arxiv.org/abs/2603.12664) · [Code](https://github.com/olivia3395/TESS)
