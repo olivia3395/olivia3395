@@ -20,7 +20,7 @@
 
 Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at the intersection of **statistics and machine learning**. My research develops **theoretically grounded transfer-learning and representation-learning** methods, spanning **optimal transport, graph mining, and multimodal learning**.
 
-I earned an M.A. in Statistics at **Columbia** and a B.S. in Mathematics at **Shandong University** (with joint training at AMSS, Chinese Academy of Sciences). I have been fortunate to collaborate with [Jun S. Liu](https://statistics.fas.harvard.edu/people/jun-s-liu), [Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/).
+I earned an M.A. in Statistics at **Columbia** and a B.S. in Mathematics at **Shandong University** (with joint training at AMSS, Chinese Academy of Sciences). I have been fortunate to collaborate with [Jun S. Liu](https://statistics.fas.harvard.edu/people/jun-s-liu), [Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/), [Haoliang Sun](https://haolsun.github.io/) and [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/).
 
 
 
