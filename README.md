@@ -20,6 +20,8 @@
 
 Howdy! I'm a **Ph.D. candidate in Statistics at Boston University**, working at the intersection of **statistics and machine learning**. My research develops **theoretically grounded transfer-learning and representation-learning** methods, spanning **optimal transport, graph mining, and multimodal learning**.
 
+I earned an M.A. in Statistics at **Columbia** and a B.S. in Mathematics at **Shandong University** (with joint training at AMSS, Chinese Academy of Sciences). Along the way I have worked with [Jun S. Liu](https://statistics.fas.harvard.edu/people/jun-s-liu) on graphon estimation, with [Yongshun Gong](https://faculty.sdu.edu.cn/gongyongshun/en/) and [Yilong Yin](https://faculty.sdu.edu.cn/ylyin/) on cross-city transfer and spatio-temporal data, and co-authored with [Chengqi Zhang](https://www.polyu.edu.hk/dsai/people/academic-staff/zhang-chengqi/) and Jieping Ye on LLM agents for paper reproduction.
+
 
 
 ### Papers & Code
